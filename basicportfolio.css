@@ -48,6 +48,11 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 
+footer{
+    background-color: rgb(128, 128, 128,0.5);
+    padding: 10px;
+}
+
 #Skills ul li{
     color: black;
     display: inline;
